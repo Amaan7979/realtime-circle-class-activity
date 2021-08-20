@@ -1,0 +1,28 @@
+.heading{
+    font-size:25px;
+    text-align:center;
+    margin:0px;
+    width:100%;
+    box-shadow:5px 5px 5px red;
+    color:black;
+}
+.note{
+    font-size:15px;
+    color:black;
+}
+.footer_div{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    background-color: yellow;
+    color:black;
+    line-height:3;
+    text-align:center;
+}
+canvas{
+    border:5px 5px ;
+    border-style: dotted;
+    border-color:blue;
+    box-shadow:5px 5px 5px red;
+    border-radius: 60px;
+}
